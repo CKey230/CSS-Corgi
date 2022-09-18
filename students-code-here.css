@@ -1,0 +1,30 @@
+/*Fido funnyglasses*/
+.funny-glasses {
+    position: relative;
+    left: 212px;
+    bottom: 110px
+}
+
+/*Daisy bandana*/
+.bandana {
+    position: absolute;
+    top: 182px;
+    left: 105px
+}
+
+/*Jack's pawprint*/
+.pawprint {
+    position: fixed;
+    top: 45px;
+    left: 65px;
+}
+
+/*luna's clothes*/
+.luna {position: sticky;
+    left: 0;
+}
+
+/*Benji's tophat*/
+.top-hat {
+    z-index: 1;
+}
